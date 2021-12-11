@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Sophie, a Lab Technician in the Sogin lab at UC Merced
+I'm Sophie, a Lab Technician in the Sogin lab at UC Merced.
+
 We study the microbiome of seagrasses and their envrionments.
 
 <!--
