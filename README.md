@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Sophie, a Lab Technician in the Sogin lab at UC Merced.
+I'm Sophie, a PhD in the Sogin lab at UC Merced.
 
-We study the microbiome of seagrasses and their envrionments.
+I study the microbiome of the sea anemone Aiptasia.
 
 <!--
 **smacvittie/smacvittie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
